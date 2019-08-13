@@ -1,0 +1,1 @@
+copy /b 7zSD.sfx + config.txt + IME.7z update_IME.exe

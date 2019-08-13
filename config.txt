@@ -1,0 +1,8 @@
+;!@Install@!UTF-8!
+
+Title="7-Zip 4.00"
+BeginPrompt="Do you want to update IMETC?"
+RunProgram="runTask.bat"
+
+
+;!@InstallEnd@!
