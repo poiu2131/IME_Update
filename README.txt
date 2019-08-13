@@ -1,5 +1,6 @@
 # IME_Update
-Fix cannot type the Tradition Chinese in win10
+1. Fix cannot type the Tradition Chinese in win10
+2. please extract 
 
 # Get IMETC folder files from C:\Windows\IME
 # 7z reference:
